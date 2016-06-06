@@ -5,5 +5,6 @@ Using Machine Learning techniques to classify ambient, urban sounds (siren, car 
 1. Naive Bayes
 2. Stacked Naive Bayes
 3. Neural Networks
-4. ADBA, 
-5. 
+4. Adaboost, Bagging
+5. Decision Trees
+6. Random Forest
